@@ -19,5 +19,5 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <li>Playing clash royale draft challenges and clan battles</li>
 </ul>
 </body>
-</html>
+</html> 
  
